@@ -6,4 +6,5 @@
 安装express和socket.io(-g表示全局范围):
 
 $ npm install (-g) express
+
 $ npm install (-g) socket.io
